@@ -1,4 +1,4 @@
-Creating a day-by-day roadmap for mastering DevOps in 90 days requires careful planning and organization. Here's a detailed daily plan for your journey:
+Day-by-day roadmap for mastering devNops in 90 days requires careful planning and organization. Here's a detailed daily plan for your journey:
 
 Month 1: Building Foundations
 
