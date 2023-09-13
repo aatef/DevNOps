@@ -6,6 +6,7 @@ Mastering DevOps is a comprehensive journey that involves both technical and cul
 Month 1: Building Foundations
 
 Week 0: Getting ready for DevOps Learning and Practice
+
     DevOps Prerequisites Course - Getting started with DevOps by FreeCodeCamp.org
     https://www.youtube.com/watch?v=Wvf0mBNGjXY    
 
