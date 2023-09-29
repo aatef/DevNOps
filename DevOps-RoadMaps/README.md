@@ -29,7 +29,7 @@ Domain Based - RoadMaps:
         CKAD
         CKS
         KCNA
-    HashiCorp [RoadMap](DevOps-RoadMaps/HashiCorp.md)
+    HashiCorp [RoadMap](https://github.com/aatef/DevNOps/blob/main/DevOps-RoadMaps/README.md)
     [Google](https://google.com)
     Text [Link](https://github.com/) text
 
