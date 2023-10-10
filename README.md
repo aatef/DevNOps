@@ -10,7 +10,34 @@ DevOps is a broad and evolving field, so would this list be ever evolving and ke
 
 # Before you start
 
-- Day 0: Getting ready for DevOps Learning and Practice
+Prerequisite training or knowledge before starting your DevOps learning journey can be beneficial for several reasons:
+
+- # Context and Understanding: 
+    - DevOps is an approach that involves collaboration between development and operations teams. Having a foundational understanding of both development and IT operations (SysAdmin, Network, Security, etc.) provides context for why DevOps practices are valuable.
+
+- # Efficient Learning: 
+    - DevOps builds on various IT practices and tools. If you have prior knowledge of version control systems (e.g., Git), scripting or programming languages (e.g., Python, Bash), and basic system administration, you can learn DevOps concepts more efficiently.
+
+- # Effective Troubleshooting: 
+    - DevOps often involves diagnosing and troubleshooting issues in complex environments. Prerequisite training in IT concepts and problem-solving skills will be valuable when you encounter issues in your DevOps work.
+
+- # Security Awareness: 
+    - Understanding basic security principles is crucial in DevOps, as security should be integrated into every stage of the development and deployment pipeline. Prerequisite training can help you grasp security best practices.
+
+- # Tool Familiarity: 
+    - DevOps relies on a wide range of tools for automation, configuration management, and deployment. Prior exposure to these tools can make it easier to grasp more advanced DevOps concepts.
+
+- # Collaboration: 
+    - DevOps is about breaking down silos and fostering collaboration between teams. Prerequisite training can help you understand the different perspectives and challenges faced by developers, operations, and other stakeholders.
+
+- # Continuous Learning: 
+    - DevOps is a continuously evolving field. Having a strong foundation in IT and development principles will make it easier to adapt to new tools and practices as they emerge.
+
+_While prerequisite training can be beneficial, it's not always mandatory. Some individuals start their DevOps journey with little or no prior knowledge and learn as they go. However, be prepared to spend extra time on foundational concepts if you choose this path._
+
+# _Ultimately, the decision to pursue prerequisite training or start from scratch depends on your background, your learning style, and your specific career goals. Whichever path you choose, a willingness to learn, adapt, and embrace a DevOps mindset of collaboration and continuous improvement is essential._
+
+# Day 0: Getting ready for DevOps Learning and Practice
     - [DevOps Prerequisites - Getting started with DevOps by FreeCodeCamp.org](https://www.youtube.com/watch?v=Wvf0mBNGjXY)
 
 # Days 1-2: Introduction to DevOps Concepts
