@@ -3,13 +3,11 @@ DevNOps : We serve devops with coffee
 
 Mastering DevOps is a comprehensive journey that involves both technical and cultural aspects. Here's a 90-day plan to help you progressively learn and apply DevOps practices through hands-on experience:
 
-Week 1: Building Foundations
+- Week 1: Building Foundations
 
 - Day 0: Getting ready for DevOps Learning and Practice
 
-    - DevOps Prerequisites Course - Getting started with DevOps by FreeCodeCamp.org
-    - https://www.youtube.com/watch?v=Wvf0mBNGjXY    
-    - [DevOps Prerequisites Course - Getting started with DevOps by FreeCodeCamp.org](https://www.youtube.com/watch?v=Wvf0mBNGjXY)
+    - [DevOps Prerequisites - Getting started with DevOps by FreeCodeCamp.org](https://www.youtube.com/watch?v=Wvf0mBNGjXY)
 
 
 Week 1-2: Understanding DevOps Principles
