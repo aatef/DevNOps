@@ -39,98 +39,50 @@ _Ultimately, the decision to pursue prerequisite training or start from scratch 
 
 # Day 0: Getting ready for DevOps Learning and Practice
 - [DevOps Prerequisites - Getting started with DevOps by FreeCodeCamp.org](https://www.youtube.com/watch?v=Wvf0mBNGjXY)
+Day-by-day roadmap for mastering devNops in 90 days requires careful planning and organization. Here's a detailed daily plan for your journey:
 
-# Days 1-2: Introduction to DevOps Concepts
+## Month 1: Building Foundations
 
-- Day 1: Understand the DevOps culture, principles, and why it's important.
-- Day 2: Learn about the history of DevOps, its benefits, and the problems it aims to solve.
+### Days 1-3: DevOps Introduction and Setup
+- Day 1: Research DevOps principles and read introductory materials.
+- Day 2: Choose a Linux-based OS, install it on a virtual machine, and set up basic configurations.
+- Day 3: Install Git and create your first repository.
 
-# Days 3-4: Version Control and Git
+### Days 4-10: Git Proficiency
+- Days 4-7: Learn Git basics and practice commands.
+- Days 8-10: Create a simple project, commit changes, and push to your Git repository.
 
-- Day 3: Learn Git basics, including cloning repositories, committing changes, and creating branches.
-- Day 4: Explore advanced Git topics like rebasing, merging, and resolving conflicts.
+### Days 11-15: Version Control and Collaboration
+- Days 11-12: Explore Git branching strategies.
+- Days 13-15: Collaborate with others on a Git project.
 
-# Days 5-6: Continuous Integration (CI) and Jenkins
+### Days 16-30: Automation and Scripting
+- Days 16-20: Learn shell scripting (e.g., Bash).
+- Days 21-25: Begin exploring infrastructure as code (IaC) concepts and tools like Terraform.
+- Days 26-30: Automate a basic infrastructure task using IaC principles.
 
-- Day 5: Set up a local Jenkins server and create your first CI pipeline.
-- Day 6: Configure Jenkins for automated builds and integration with version control systems.
+## Month 2: Essential Tools and Practices
 
-# Days 7-8: Containerization with Docker
+### Days 31-40: CI/CD Pipeline Setup
+- Days 31-35: Choose a CI/CD tool (e.g., Jenkins) and set up a basic pipeline.
+- Days 36-40: Automate the build and deployment of a sample application.
 
-- Day 7: Learn Docker fundamentals, including containers, images, and Dockerfile.
-- Day 8: Practice building, running, and managing containers with Docker.
+### Days 41-50: Containerization with Docker
+- Days 41-45: Learn Docker fundamentals.
+- Days 46-50: Create Dockerfiles and run containers for different applications.
 
-# Days 9-10: Container Orchestration with Kubernetes
+## Month 3: Advanced DevOps Practices
 
-- Day 9: Explore Kubernetes basics, including pods, services, and deployments.
-- Day 10: Set up a local Kubernetes cluster and deploy a sample application.
+### Days 51-60: Cloud Platforms and Kubernetes
+- Days 51-55: Explore a cloud platform (e.g., AWS).
+- Days 56-60: Learn Kubernetes basics and deploy an application on a local cluster.
 
-# Days 11-12: Infrastructure as Code (IaC) with Terraform
+### Days 61-70: Monitoring and Incident Response
+- Days 61-65: Set up monitoring tools (e.g., Prometheus and Grafana).
+- Days 66-70: Create alerting rules and practice incident response.
 
-- Day 11: Learn Terraform fundamentals and define infrastructure as code.
-- Day 12: Create and manage cloud resources using Terraform.
+### Days 71-90: Real-world Projects and Continuous Learning
+- Days 71-80: Work on real-world projects, collaborate with others, and contribute to open-source if possible.
+- Days 81-90: Continuously explore advanced DevOps topics, attend webinars, and document your journey.
 
-# Days 13-14: Configuration Management with Ansible
-
-- Day 13: Understand Ansible concepts, playbooks, and roles.
-- Day 14: Automate server configuration and management with Ansible.
-
-# Days 15-16: Continuous Deployment (CD) and Jenkins
-
-- Day 15: Extend your Jenkins pipeline to include automated testing and CD.
-- Day 16: Practice deploying applications automatically with Jenkins.
-
-# Days 17-18: Cloud Services (AWS, Azure, or GCP)
-
-- Day 17: Choose a cloud provider and learn its core services.
-- Day 18: Deploy and manage applications on the chosen cloud platform.
-
-# Days 19-20: Monitoring and Logging
-
-- Day 19: Set up monitoring using tools like Prometheus and Grafana.
-- Day 20: Implement logging with tools like ELK Stack (Elasticsearch, Logstash, Kibana).
-
-# Days 21-22: Security and Compliance
-
-- Day 21: Learn about DevSecOps and security best practices.
-- Day 22: Implement security measures and compliance checks in your pipelines.
-
-# Days 23-24: Networking and Load Balancing
-
-- Day 23: Understand networking concepts and cloud-based networking.
-- Day 24: Configure load balancers for high availability and scalability.
-
-# Days 25-26: Disaster Recovery and Backup
-
-- Day 25: Develop a disaster recovery plan and backup strategy.
-- Day 26: Practice disaster recovery scenarios and backup procedures.
-
-# Days 27-28: Advanced DevOps Tools
-
-- Day 27: Explore additional DevOps tools and technologies.
-- Day 28: Integrate new tools into your DevOps stack as needed.
-
-# Days 29-30: Collaboration and Soft Skills
-
-- Day 29: Enhance collaboration skills with development and operations teams.
-- Day 30: Focus on soft skills like communication and problem-solving.
-
-# Days 31-32: DevOps Projects
-
-- Day 31: Choose a real-world project or problem to work on.
-- Day 32: Implement DevOps practices and solutions for the project.
-
-# Days 33-34: Documentation and Knowledge Sharing
-
-- Day 33: Document your DevOps processes and solutions.
-- Day 34: Share your knowledge with the DevOps community or your team.
-
-# Days 35-36: Review and Certification
-
-- Day 35: Review and reinforce your knowledge and skills.
-- Day 36: Consider taking relevant DevOps certifications if desired.
-
-# Days 37-90: Continuous Learning and Improvement
-
-Use the remaining days to continually learn, practice, and refine your DevOps skills. Stay updated with industry trends, tools, and best practices.
-
+Throughout your 90-day plan, engage with DevOps communities, forums, and blogs to stay updated and seek guidance. Remember that DevOps is a continuous learning process, and beyond this plan, you should keep refining your skills and adapting to new technologies and practices.
