@@ -6,24 +6,32 @@ Follow me On : [<img src="./img/linkedin.png" alt="LinkedIn Aatef Tasneem Khan" 
 - [Introduction to DevOps, Habits and Practices](https://www.udemy.com/course/introduction-to-devops-habits-practices-and-pipelines/)
 - [DevOps 101](https://www.udemy.com/course/devops-101-buddy/)
 
+## Version Control Systems
+### GitHub
+- [GIT Crash Course](https://www.udemy.com/course/gitbyavinash/)
+
 ## AWS DevOps
 - [Code, Build, and Test - Course 1 of 3](https://www.udemy.com/course/devops-aws-code-build-test/)
 - [Release and Deploy - Course 2 of 3](https://www.udemy.com/course/devops-aws-release-deploy/)
 - [Operate and Monitor - Course 3 of 3](https://www.udemy.com/course/devops-aws-operate-monitor/)
+- [Master Amazon EC2 Basics with 10 Labs](https://www.udemy.com/course/ec2with10labs/)
+- [Amazon Web Services (AWS): CloudFormation](https://www.udemy.com/course/amazon-web-services-aws-cloudformation/)
+
+### Ansible on AWS 
+- [Use Ansible with Amazon Web Services](https://www.udemy.com/course/ansible-aws/)
+
+## Azure DevOps
+- [AZ-900 Microsoft Azure Fundamentals](https://www.udemy.com/course/az-900-azure-tutorial/)
 
 ## CICD Pipelines
 - [CI CD pipeline - Devops Automation in 1 hr](https://www.udemy.com/course/ci-cd-pinepline-devops-automation-in-1-hr/)
 - [DevOps : CI/CD with Jenkins](https://www.udemy.com/course/devops-cicd-with-jenkins/)
 
-## Interview Questions and Answers
-- [Free Devops Interview Questions and Answers](https://www.udemy.com/course/devops-interview-questions/)
-
 ## Infrastructure Automation + IAC for Beginners:
-
 ### Ansible
 - [Ansible in 1 hour](https://www.udemy.com/course/devops-tools-for-beginners-ansible-in-1-hour/)
 - [Ansible for the Absolute Beginner](https://www.udemy.com/course/ansible-for-the-absolute-beginner-devops/)
-
+- [Just enough Ansible to be dangerous](https://www.udemy.com/course/just-enough-ansible/)
 ### Terraform
 - [Learn terraform by setting up Highly available wordpress](https://www.udemy.com/course/learn-terraform-by-setting-up-highly-available-wordpress/)
 
@@ -35,15 +43,16 @@ Follow me On : [<img src="./img/linkedin.png" alt="LinkedIn Aatef Tasneem Khan" 
 ## Kubernetes (K8S)
 - [Kubernetes: Getting Started](https://www.udemy.com/course/kubernetes-getting-started/)
 
+## Build Tools
+### Maven
+- [Maven Quick Start: A Fast Introduction to Maven by Example](https://www.udemy.com/course/maven-quick-start/)
+
+## Interview Questions and Answers
+- [Free Devops Interview Questions and Answers](https://www.udemy.com/course/devops-interview-questions/)
+
 # Unchecked
 
-- Use Ansible with Amazon Web Services https://lnkd.in/d6VfZi7d
-- GIT Crash Course https://lnkd.in/ddzznGuV
-- Maven Quick Start: A Fast Introduction to Maven by Example https://lnkd.in/dhVam3zC
-- Master Amazon EC2 Basics with 10 Labs https://lnkd.in/d9jQ6cmN
-- Amazon Web Services (AWS): CloudFormation https://lnkd.in/dAc65c-H
-- Just enough Ansible to be dangerous https://lnkd.in/dXaWmX5d
-- AZ-900 Microsoft Azure Fundamentals https://lnkd.in/dcdae_VZ
+
 - Deploy Azure Virtual Desktop for beginners https://lnkd.in/dQsbzHes
 - Apache Maven for Beginners https://lnkd.in/dWTK6dxn
 - AWS Certified Solutions Architect Associate Introduction https://lnkd.in/d4eR5gsW
