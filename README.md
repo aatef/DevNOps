@@ -9,3 +9,7 @@ Mastering DevOps is a comprehensive journey that involves both technical and cul
 ### DevOps in 90 Days
 [DevOps in 90 Days](./90Days/)
 
+## Free DevOps Trainings on Udemy.com
+[Free DevOps Trainings on Udemy.com](free-devops-on-udemy.md)
+
+

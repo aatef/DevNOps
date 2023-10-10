@@ -13,14 +13,18 @@ Follow me On : [<img src="./img/linkedin.png" alt="LinkedIn Aatef Tasneem Khan" 
 - [GIT Crash Course](https://www.udemy.com/course/gitbyavinash/)
 
 ## AWS DevOps
-- [Code, Build, and Test - Course 1 of 3](https://www.udemy.com/course/devops-aws-code-build-test/)
-- [Release and Deploy - Course 2 of 3](https://www.udemy.com/course/devops-aws-release-deploy/)
-- [Operate and Monitor - Course 3 of 3](https://www.udemy.com/course/devops-aws-operate-monitor/)
-- [Master Amazon EC2 Basics with 10 Labs](https://www.udemy.com/course/ec2with10labs/)
+- [Code, Build, and Test - 1/3](https://www.udemy.com/course/devops-aws-code-build-test/)
+- [Release and Deploy - 2/3](https://www.udemy.com/course/devops-aws-release-deploy/)
+- [Operate and Monitor - 3/3](https://www.udemy.com/course/devops-aws-operate-monitor/)
+
 - [Amazon Web Services (AWS): CloudFormation](https://www.udemy.com/course/amazon-web-services-aws-cloudformation/)
-- [AWS Certified Solutions Architect Associate Introduction](https://www.udemy.com/course/aws-certified-solutions-architect-associate-in-30-days/)
+### AWS VPC
 - [AWS VPC and VPC Peering Demo](https://www.udemy.com/course/aws-vpc-and-vpc-peering-demo/)
+- [AWS Certified Solutions Architect Associate Introduction](https://www.udemy.com/course/aws-certified-solutions-architect-associate-in-30-days/)
+### AWS EC2
 - [Amazon Web Services (AWS) EC2: An Introduction](https://www.udemy.com/course/amazon-web-services-aws-ec2-an-introduction/)
+- [Master Amazon EC2 Basics with 10 Labs](https://www.udemy.com/course/ec2with10labs/)
+### AWS S3
 - [Hosting your static website on Amazon AWS S3 service](https://www.udemy.com/course/hosting-a-static-website-on-amazon-aws-s3-service/)
 
 ### Ansible on AWS 
