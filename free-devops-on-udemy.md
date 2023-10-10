@@ -1,6 +1,8 @@
-Free learning on Udemy
+Upto-Date DevOps Courses on Udemy
+
 DevOps Tutorials for Absolute Beginner :
-LIKE 👍 Follow Ann Felix ☁️
+- [Follow on LinkedIn for more](https://www.linkedin.com/in/aateftasneem)
+- [Follow on GitHub for more](https://github.com/aatef/DevNOps)
 
 1. DevOps - The Introduction 
  https://lnkd.in/dD79ZpJF
