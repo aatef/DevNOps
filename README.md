@@ -9,6 +9,8 @@ Week 1: Building Foundations
 
     - DevOps Prerequisites Course - Getting started with DevOps by FreeCodeCamp.org
     - https://www.youtube.com/watch?v=Wvf0mBNGjXY    
+    - [DevOps Prerequisites Course - Getting started with DevOps by FreeCodeCamp.org](https://www.youtube.com/watch?v=Wvf0mBNGjXY)
+
 
 Week 1-2: Understanding DevOps Principles
 
