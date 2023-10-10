@@ -1,25 +1,31 @@
-#Free DevOps Courses on Udemy
+# Free DevOps Courses on Udemy
 
 Follow me On : [<img src="./img/linkedin.png" alt="LinkedIn Aatef Tasneem Khan" width="25" height="25">](https://www.linkedin.com/in/aateftasneem) [<img src="./img/github.png" alt="GitHub DevNOps" width="25" height="25">](https://github.com/aatef/DevNOps) for more
 
 ## DevOps Basics
 - [DevOps 101](https://www.udemy.com/course/devops-101-buddy/)
+- [Introduction to DevOps, Habits and Practices](https://www.udemy.com/course/introduction-to-devops-habits-practices-and-pipelines/)
 
-## DevOps On AWS
-- [DevOps on AWS: Code, Build, and Test - Course 1 of 3](https://www.udemy.com/course/devops-aws-code-build-test/)
-- [DevOps on AWS: Release and Deploy - Course 2 of 3](https://www.udemy.com/course/devops-aws-release-deploy/)
-- [DevOps on AWS: Operate and Monitor - Course 3 of 3](https://www.udemy.com/course/devops-aws-operate-monitor/)
+## AWS DevOps
+- [Code, Build, and Test - Course 1 of 3](https://www.udemy.com/course/devops-aws-code-build-test/)
+- [Release and Deploy - Course 2 of 3](https://www.udemy.com/course/devops-aws-release-deploy/)
+- [Operate and Monitor - Course 3 of 3](https://www.udemy.com/course/devops-aws-operate-monitor/)
 
 ## CICD Pipelines
 - [CI CD pipeline - Devops Automation in 1 hr](https://www.udemy.com/course/ci-cd-pinepline-devops-automation-in-1-hr/)
+- [DevOps : CI/CD with Jenkins](https://www.udemy.com/course/devops-cicd-with-jenkins/)
 
-- Free Devops Interview Questions and Answers  https://lnkd.in/dsQu76qm
-- DevOps Tools for Beginners: Ansible in 1 hour   https://lnkd.in/dKgMap-r
-- Introduction to DevOps, Habits and Practices  https://lnkd.in/dsvQQcYj
-- Amazon AWS Cloud IAM Hands-On  https://lnkd.in/ddSBhiST
-- DevOps : CI/CD with Jenkins https://lnkd.in/d3qvi-Az
-- Introduction to YAML - A hands -on course  https://lnkd.in/d4ypNfGF
-- Kubernetes: Getting Started  https://lnkd.in/d_JQi6wF
+## Interview Questions and Answers
+- [Free Devops Interview Questions and Answers](https://www.udemy.com/course/devops-interview-questions/)
+
+## Infrastructure Automation + IAC
+- [DevOps Tools for Beginners: Ansible in 1 hour](https://www.udemy.com/course/devops-tools-for-beginners-ansible-in-1-hour/)
+
+## Kubernetes (K8S)
+- [Kubernetes: Getting Started](https://www.udemy.com/course/kubernetes-getting-started/)
+
+# Unchecked
+
 - Docker Tutorial for Beginners practical hands on -Devops https://lnkd.in/dbSJ-zfX
 - Ansible for the Absolute Beginner - DevOps https://lnkd.in/dn_w3bsK
 - Docker, Docker SWARM and Kubernetes crash course for DevOps https://lnkd.in/dFirktd3
