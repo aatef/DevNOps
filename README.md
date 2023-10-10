@@ -1,12 +1,14 @@
 # DevNOps
 DevNOps : We serve devops with coffee
 
+Mastering DevOps is a comprehensive journey that involves both technical and cultural aspects. DevOps is not just about tools; it's a cultural shift that emphasizes collaboration, communication, and automation. Continuously seek feedback and adapt your practices accordingly. This plan should provide a solid foundation, but your learning journey should extend far beyond these 90 days. Stay curious and keep exploring new DevOps practices and technologies as they emerge.
 
-Remember, DevOps is not just about tools; it's a cultural shift that emphasizes collaboration, communication, and automation. Continuously seek feedback and adapt your practices accordingly. This plan should provide a solid foundation, but your learning journey should extend far beyond these 90 days. Stay curious and keep exploring new DevOps practices and technologies as they emerge.
+Here's a 90-day plan to help you progressively learn and apply DevOps practices through hands-on experience, 
+- This daily plan is intense, 
+- and it's crucial to adjust the pace to match your own learning style and prior experience. 
+DevOps is a broad and evolving field, so would this list be ever evolving and keeping you all up with ever evolving field of DevOps and its ever evolving challenges. 
 
-Mastering DevOps is a comprehensive journey that involves both technical and cultural aspects. Here's a 90-day plan to help you progressively learn and apply DevOps practices through hands-on experience:
-
-# Week 1: Building Foundations
+# Before you start
 
 - Day 0: Getting ready for DevOps Learning and Practice
     - [DevOps Prerequisites - Getting started with DevOps by FreeCodeCamp.org](https://www.youtube.com/watch?v=Wvf0mBNGjXY)
@@ -103,6 +105,5 @@ Mastering DevOps is a comprehensive journey that involves both technical and cul
 
 # Days 37-90: Continuous Learning and Improvement
 
-    Use the remaining days to continually learn, practice, and refine your DevOps skills. Stay updated with industry trends, tools, and best practices.
+Use the remaining days to continually learn, practice, and refine your DevOps skills. Stay updated with industry trends, tools, and best practices.
 
-This daily plan is intense, and it's crucial to adjust the pace to match your own learning style and prior experience. DevOps is a broad and evolving field, so continue learning and adapting even after the initial 90 days.
