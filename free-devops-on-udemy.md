@@ -3,8 +3,8 @@
 Follow me On : [<img src="./img/linkedin.png" alt="LinkedIn Aatef Tasneem Khan" width="25" height="25">](https://www.linkedin.com/in/aateftasneem) [<img src="./img/github.png" alt="GitHub DevNOps" width="25" height="25">](https://github.com/aatef/DevNOps) for more
 
 ## DevOps Basics
-- [DevOps 101](https://www.udemy.com/course/devops-101-buddy/)
 - [Introduction to DevOps, Habits and Practices](https://www.udemy.com/course/introduction-to-devops-habits-practices-and-pipelines/)
+- [DevOps 101](https://www.udemy.com/course/devops-101-buddy/)
 
 ## AWS DevOps
 - [Code, Build, and Test - Course 1 of 3](https://www.udemy.com/course/devops-aws-code-build-test/)
@@ -18,19 +18,25 @@ Follow me On : [<img src="./img/linkedin.png" alt="LinkedIn Aatef Tasneem Khan" 
 ## Interview Questions and Answers
 - [Free Devops Interview Questions and Answers](https://www.udemy.com/course/devops-interview-questions/)
 
-## Infrastructure Automation + IAC
-- [DevOps Tools for Beginners: Ansible in 1 hour](https://www.udemy.com/course/devops-tools-for-beginners-ansible-in-1-hour/)
+## Infrastructure Automation + IAC for Beginners:
+
+### Ansible
+- [Ansible in 1 hour](https://www.udemy.com/course/devops-tools-for-beginners-ansible-in-1-hour/)
+- [Ansible for the Absolute Beginner](https://www.udemy.com/course/ansible-for-the-absolute-beginner-devops/)
+
+### Terraform
+- [Learn terraform by setting up Highly available wordpress](https://www.udemy.com/course/learn-terraform-by-setting-up-highly-available-wordpress/)
+
+## Contairization (Docker)
+- [Docker Tutorial for Beginners practical hands on](https://www.udemy.com/course/docker-for-beginners-tutorial-with-practical-example/)
+- [Docker, Docker SWARM and Kubernetes crash course for DevOps](https://www.udemy.com/course/docker-docker-swarm-and-kubernetes-crash-course-for-devops/)
+- [Understanding Docker in about an Hour](https://www.udemy.com/course/how-to-use-docker/)
 
 ## Kubernetes (K8S)
 - [Kubernetes: Getting Started](https://www.udemy.com/course/kubernetes-getting-started/)
 
 # Unchecked
 
-- Docker Tutorial for Beginners practical hands on -Devops https://lnkd.in/dbSJ-zfX
-- Ansible for the Absolute Beginner - DevOps https://lnkd.in/dn_w3bsK
-- Docker, Docker SWARM and Kubernetes crash course for DevOps https://lnkd.in/dFirktd3
-- Understanding Docker in about an Hour  https://lnkd.in/dNBvbgqJ
-- Learn terraform by setting up Highly available wordpress https://lnkd.in/d-AaXDT2
 - Use Ansible with Amazon Web Services https://lnkd.in/d6VfZi7d
 - GIT Crash Course https://lnkd.in/ddzznGuV
 - Maven Quick Start: A Fast Introduction to Maven by Example https://lnkd.in/dhVam3zC
