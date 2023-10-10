@@ -1,8 +1,8 @@
 Upto-Date DevOps Courses on Udemy
 
 DevOps Tutorials for Absolute Beginner :
-- ![Linkedin](./img/linkedin.png) [Follow on LinkedIn for more](https://www.linkedin.com/in/aateftasneem)
-- [Follow on ![Linkedin](./img/github.png) for more](https://github.com/aatef/DevNOps)
+- [Follow on <img src="./img/linkedin.png" alt="LinkedIn Aatef Tasneem Khan" width="40" height="40"> for more](https://www.linkedin.com/in/aateftasneem)
+- [Follow on <img src="./img/github.png" alt="GitHub DevNOps" width="40" height="40"> for more](https://github.com/aatef/DevNOps)
 
 1. DevOps - The Introduction 
  https://lnkd.in/dD79ZpJF
