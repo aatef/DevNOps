@@ -38,7 +38,7 @@ _While prerequisite training can be beneficial, it's not always mandatory. Some 
 _Ultimately, the decision to pursue prerequisite training or start from scratch depends on your background, your learning style, and your specific career goals. Whichever path you choose, a willingness to learn, adapt, and embrace a DevOps mindset of collaboration and continuous improvement is essential._
 
 # Day 0: Getting ready for DevOps Learning and Practice
-    - [DevOps Prerequisites - Getting started with DevOps by FreeCodeCamp.org](https://www.youtube.com/watch?v=Wvf0mBNGjXY)
+- [DevOps Prerequisites - Getting started with DevOps by FreeCodeCamp.org](https://www.youtube.com/watch?v=Wvf0mBNGjXY)
 
 # Days 1-2: Introduction to DevOps Concepts
 
