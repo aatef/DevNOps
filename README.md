@@ -8,6 +8,8 @@ Mastering DevOps is a comprehensive journey that involves both technical and cul
 - [Domain Based DevOps RoadMaps](./domainbased-roadmaps.md)
 
 ### Free DevOps Trainings on Youtube.com
+- [ DevOps Prerequisites Course - Getting started with DevOps by FreeCodeCamp.org](https://www.youtube.com/watch?v=Wvf0mBNGjXY)
+
 - [Linux and DevOps bootcamp 2022 by Babar Zahoor](https://www.youtube.com/watch?v=ctgMKhv6j7E&list=PLBiQy5tO4R2N-W-1lvnNMVAJXqqSxujXQ)
 - [Kubernetes Bootcamp - Ramzan 2023 by Babar Zahoor](https://www.youtube.com/watch?v=4Vt3RPQxD64&list=PLBiQy5tO4R2OA3_eQ4wPXchN0XtODcP8z)
 
