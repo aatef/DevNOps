@@ -14,5 +14,6 @@ Mastering DevOps is a comprehensive journey that involves both technical and cul
 ### Free DevOps Training onUdemy.com
 - [Free DevOps Trainings on Udemy.com](./free-devops-trainings-on-udemy.md)
 
-### Free DevOps Training from AWS
-- [Free DevOps Trainings from AWS](free-devops-trainings-from-aws.md)
+### AWS DevOps Training
+- [AWS DevOps Trainings on Coursera.org](./aws-devops-trainings-on-coursera.md)
+
