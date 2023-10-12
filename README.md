@@ -13,6 +13,7 @@ Mastering DevOps is a comprehensive journey that involves both technical and cul
 - [Linux and DevOps bootcamp 2022 by Babar Zahoor](https://www.youtube.com/watch?v=ctgMKhv6j7E&list=PLBiQy5tO4R2N-W-1lvnNMVAJXqqSxujXQ)
     - [Learn Linux & DevOps with Babar Zahoor FaceBook Group](https://web.facebook.com/groups/4324352524248700)
     - [Babar Zahoor sahib FaceBook Page](https://web.facebook.com/babar.zahoor.osfp)
+    - [ Open Source Educational Network ](https://opensourceeducation.net/)
 - [Kubernetes Bootcamp - Ramzan 2023 by Babar Zahoor](https://www.youtube.com/watch?v=4Vt3RPQxD64&list=PLBiQy5tO4R2OA3_eQ4wPXchN0XtODcP8z)
 
 ### DevOps Training Resources
