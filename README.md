@@ -6,3 +6,14 @@ Mastering DevOps is a comprehensive journey that involves both technical and cul
 - [Role Based DevOps RoadMaps](./rolebased-roadmaps.md)
 - [Domain Based DevOps RoadMaps](./domainbased-roadmaps.md)
 
+## Free DevOps Training Resources
+
+### Free DevOps Training on Youtube.com
+- [Free Linux and DevOps bootcamp 2022 by Babar Zahoor](https://www.youtube.com/watch?v=ctgMKhv6j7E&list=PLBiQy5tO4R2N-W-1lvnNMVAJXqqSxujXQ)
+- [Free ## Free DevOps Training Resources by Babar Zahoor](https://www.youtube.com/watch?v=4Vt3RPQxD64&list=PLBiQy5tO4R2OA3_eQ4wPXchN0XtODcP8z)
+
+### Udemy.com
+- [Free DevOps Trainings on Udemy.com](./free-devops-trainings-on-udemy.md)
+
+### AWS
+- [Free DevOps Trainings from AWS](free-devops-trainings-from-aws.md)
