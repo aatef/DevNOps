@@ -19,6 +19,7 @@ Mastering DevOps is a comprehensive journey that involves both technical and cul
 ### DevOps Training Resources
 - [Free DevOps Trainings on Udemy.com](./free-devops-trainings-on-udemy.md)
 - [AWS DevOps Trainings on Coursera.org](./aws-devops-trainings-on-coursera.md)
+- [DevOps boot camp outline by Nana Janasia](./nana-bootcamp.md)
 
 ### Remote Jobs Resources
 - [Dubai (UAE) Job Agencies](./dubai-jobs.md)
