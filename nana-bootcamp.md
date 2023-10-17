@@ -1,3 +1,5 @@
+## DevNOps : Popular RoadMaps (DevOps BootCamp ourtline by Nana Janasia)
+
 ## Introduction to DevOps
 - DevOps Bootcamp Overview
 - What is DevOps?
@@ -345,7 +347,8 @@
 - Project: API Request to GitLab
 
 ## Automation with Python
-    After having learnt the programming basics and now being able to write programs, you will learn how to use this Python knowledge for DevOps use cases.
+    After having learnt the programming basics and now being able to write programs.
+    You will learn how to use this Python knowledge for DevOps use cases.
 
 ### Cloud Automation - AWS & Python
 - Introduction to Boto (AWS Library for Python)
