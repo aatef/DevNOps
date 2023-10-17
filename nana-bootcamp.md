@@ -1,4 +1,6 @@
-## DevNOps : Popular RoadMaps (DevOps BootCamp ourtline by Nana Janasia)
+## DevNOps : Popular RoadMaps 
+
+### DevOps BootCamp ourtline by Nana Janasia
 
 ## Introduction to DevOps
 - DevOps Bootcamp Overview
@@ -374,7 +376,43 @@
 - Recover: Restart the application and reboot the underlying remote server
 
 ## Configuration Management with Ansible
-- As a continuation of the projects in all the previous modules, we will use Ansible to further automate and optimize DevOps processes. Ansible, next to Terraform is one of the most popular infrastructure as code and configuration management tools currently used in IT projects.
+As a continuation of the projects in all the previous modules, we will use Ansible to further automate and optimize DevOps processes. Ansible, next to Terraform is one of the most popular infrastructure as code and configuration management tools currently used in IT projects.
+Core Concepts and Syntax of Ansible
+
+- Introduction to Ansible
+- Install & Configure Ansible
+- Setup Managed Server to configure with Ansible
+- Ansible Inventory
+- Ansible ad-hoc Commands
+- Configure AWS EC2 server with Ansible
+- Managing Host Key Checking and SSH keys
+- Ansible Tasks, Play & Playbook
+- Ansible Modules
+- Ansible Collections & Ansible Galaxy
+- Ansible Variables - to make your Playbook customizable
+- Troubleshooting in Ansible
+- Conditionals
+- Privilege Escalation
+- Ansible Configuration - Default Inventory File
+
+### Learn most common Ansible modules with hands-on demos:
+- Project: Deploy Nodejs Application
+- Project: Deploy Nexus
+- Configure servers with different Linux distributions on AWS and Digital Ocean platforms
+
+In these projects we will install tools on a server, configure applications, work with a file system, move static files between machines etc.
+
+Essentially you will learn how to map and translate shell scripts and commands into Ansible Playbooks to automate various common tasks in general. 
+
+### More Advanced Topics & Integrations with other Technologies
+- Dynamic Inventory for EC2 Servers
+- Ansible Roles - to make your Ansible content more reusable and modular for better maintenance
+- Project: Ansible & Terraform
+- Project: Run Docker applications
+- Project: Deploying Applications in Kubernetes
+- Project: Run Ansible from Jenkins Pipeline
+
+So, you don't learn Ansible just as a standalone tool in this bootcamp, but rather integrated in different technologies, like Docker, K8s, Terraform, Jenkins, AWS and so on, in various real world use cases, as it builds on the previous modules in the bootcamp!
 
 ## Monitoring with Prometheus
 - Introduction to Monitoring with Prometheus
