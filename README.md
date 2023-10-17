@@ -9,6 +9,7 @@ Mastering DevOps is a comprehensive journey that involves both technical and cul
 
 ### Free DevOps Trainings on Youtube.com
 - [ DevOps Prerequisites Course - Getting started with DevOps by FreeCodeCamp.org](https://www.youtube.com/watch?v=Wvf0mBNGjXY)
+- [ Urdu CBT by Kamran Azeem (DevOps Guru) on Youtube.com](./kamran-azeem-linux.md)
 
 - [Linux and DevOps bootcamp 2022 by Babar Zahoor](https://www.youtube.com/watch?v=ctgMKhv6j7E&list=PLBiQy5tO4R2N-W-1lvnNMVAJXqqSxujXQ)
     - [Learn Linux & DevOps with Babar Zahoor FaceBook Group](https://web.facebook.com/groups/4324352524248700)
