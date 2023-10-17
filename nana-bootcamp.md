@@ -1,7 +1,13 @@
 ## DevNOps : Popular Learning RoadMaps Series
 
 ### DevOps BootCamp ourtline by Nana Janasia
-- [$1700 time proven outline for six months Journey with Nana Janasia](https://www.techworld-with-nana.com/devops-bootcamp)
+- 10 - 15 hours / week
+- either software development or operations background
+- work along the demos & do the exercises
+
+- [Time proven outline for six months Journey with Nana Janasia ($1700)](https://www.techworld-with-nana.com/devops-bootcamp)
+ 
+
 
 ## Introduction to DevOps
 - DevOps Bootcamp Overview
