@@ -1,4 +1,6 @@
-## DevNOps : Free Linux Urdu CBT on YouTube.com
+## DevNOps : Muhammad Kamran Azeem (DevOps Guru)
+- [Linkedin profile link](https://www.linkedin.com/in/muhammad-kamran-azeem/)
+- [YouTube Channel Link](https://www.youtube.com/@WBITT)
 
 ### Embracing Linux (Urdu CBT) by Kamran Azeem (49 Lectures)
 - [Linux History](https://www.youtube.com/watch?v=8Iw7EvqJOvs&list=PLF9C59631A7C00CEC)
