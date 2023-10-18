@@ -1,4 +1,4 @@
-## DevNOps : Muhammad Kamran Azeem (DevOps Guru)
+## DevNOps Hall of Fame : Muhammad Kamran Azeem (DevOps Guru)
 - [Linkedin profile link](https://www.linkedin.com/in/muhammad-kamran-azeem/)
 - [YouTube Channel Link](https://www.youtube.com/@WBITT)
 
