@@ -22,7 +22,13 @@ Mastering DevOps is a comprehensive journey that involves both technical and cul
 - [AWS DevOps Trainings on Coursera.org](./aws-devops-trainings-on-coursera.md)
 - [DevOps BootCamp outline by Nana Janasia](./nana-bootcamp.md)
 
-## All About DevOps & Cloud Jobs
+
+## About Freelancing - Where to start
+### Hisham Sarwar
+- [Freelancing Course by Hisham Sarwar on YouTube 8 Videos](https://www.youtube.com/playlist?list=PLHi_NUJDIGWKPB73PnA78WJYzIBScuiZj)
+
+## About Job and Job Hunting
+- [Job Platforms & Job Hunting](./job-platforms-and-job-hunting.md)
 - [How to Get Your First Job in Cloud : RoadMap by Gwyneth Peña-Siguenza](https://www.youtube.com/watch?v=BfaRP2stZTo)
 
 ### Remote Jobs Resources
