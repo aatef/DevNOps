@@ -27,7 +27,6 @@ Mastering DevOps is a comprehensive journey that involves both technical and cul
 ### Hisham Sarwar
 - [Freelancing Course by Hisham Sarwar on YouTube 8 Videos](https://www.youtube.com/playlist?list=PLHi_NUJDIGWKPB73PnA78WJYzIBScuiZj)
 ### Aitzaz Daud a.k.a. Zazi khan - TechKor
-### TechKor
 - [ Fiverr Complete Course 2022 by TechKor - 14 Videos ](https://www.youtube.com/playlist?list=PLxI2MK_PSCwsmH_sFbftMaK64wJHtNKVY)
 - [  Fiverr Full Course 2023 by TechKor - 2 Videos ](https://www.youtube.com/playlist?list=PLxI2MK_PSCwsXj-2XQzmajVshK8stq4gj)
 
