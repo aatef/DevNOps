@@ -16,6 +16,8 @@ Mastering DevOps is a comprehensive journey that involves both technical and cul
     - [Babar Zahoor sahib FaceBook Page](https://web.facebook.com/babar.zahoor.osfp)
     - [ Open Source Educational Network ](https://opensourceeducation.net/)
 - [Kubernetes Bootcamp - Ramzan 2023 by Babar Zahoor](https://www.youtube.com/watch?v=4Vt3RPQxD64&list=PLBiQy5tO4R2OA3_eQ4wPXchN0XtODcP8z)
+  
+- [Docker In One Shot with 2 Live DevOps Projects by Shubham Londhe](https://www.youtube.com/watch?v=9bSbNNH4Nqw)
 
 ### DevOps Training Resources
 - [Free DevOps Trainings on Udemy.com](./free-devops-trainings-on-udemy.md)
